@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://daytonabeachpestcontrolco.com/sitemap.xml
